@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maharulnisa65.github.io/libass-Pakistani-45/sitemap.xml
